@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ankush Zaskar</h1>
-<h3 align="center">🌐 Web Developer with strong expertise in HTML, CSS, JavaScript, Bootstrap, Python, Django, SQL, and NumPy. Experienced in developing responsive, user-centric, and scalable web applications, with a focus on clean code, performance optimization, and maintainable architecture. Passionate about transforming ideas into reliable digital solutions and continuously advancing skills toward full-stack development excellence ⚡</h3>
+<h3 align="center">🌐 Full-Stack Web Developer with strong expertise in HTML, CSS, JavaScript, Bootstrap, Python, Django, SQL, and NumPy. I specialize in developing responsive, user-focused, and scalable web applications that combine clean, maintainable code with optimal performance. My work emphasizes creating seamless, interactive user experiences while implementing robust backend functionality and secure, efficient data handling. I am passionate about transforming creative ideas into functional digital solutions, continuously learning and adopting the latest web technologies to stay at the forefront of the industry. With a strong commitment to full-stack development excellence, I strive to deliver high-quality applications that are both visually appealing and technically robust, ensuring long-term maintainability and scalability.</h3>
+
+- 🔭 I’m currently working on **Product Dashboard**
 
 - 🌱 I’m currently learning **python, Djnago, React JS**
 
+- 👯 I have completed project called **Course Comparison**
+
 - 👨‍💻 Portfolio link [https://ankush-fullstack.netlify.app/](https://ankush-fullstack.netlify.app/)
 
-- 💬 Ask me about **react**
+- 💬 My Experience During Project Development **During the development of the Product Dashboard 📊 and Course Comparison 📚 projects, I gained hands-on experience in full-stack web development 💻. For the Product Dashboard 📊, I implemented CRUD operations, database management with MySQL 🗄️, and created interactive, responsive dashboards using Django 🐍, Python 🐍, HTML, CSS 🎨, and Bootstrap ⚡. For the Course Comparison project 📚, I leveraged React.js ⚛️ to build a dynamic, responsive front-end, while managing backend functionality and API integrations with Django 🐍 and Python 🐍. These projects strengthened my ability to combine front-end interactivity with robust backend logic, optimize performance 🚀, write clean, maintainable code ✨, and deliver scalable, user-centric web applications 🌐.**
 
 - 📫 How to reach me **ankushzaskar777@gmail.com**
+
+- ⚡ Fun fact **I turn coffee ☕ into Python and Django code, and my CSS skills make pixels behave perfectly. I love building responsive, user-friendly web apps, and debugging JavaScript is my cardio 💻🏃‍♂️. Gradients, shadows, and animations are my playground, and I sometimes dream in reusable components 😅. I enjoy transforming creative ideas into scalable full-stack projects that are both functional and visually appealing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
