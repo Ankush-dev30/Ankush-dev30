@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Zaskar</h1>
-<h3 align="center">
+<h3 align="justify">
 🌐 Full-Stack Web Developer with strong expertise in HTML, CSS, JavaScript, Bootstrap, Python, Django, SQL, and NumPy. I specialize in developing responsive, user-focused, and scalable web applications that combine clean, maintainable code with optimal performance. My work emphasizes creating seamless, interactive user experiences while implementing robust backend functionality and secure, efficient data handling. 
 I am passionate about transforming creative ideas into functional digital solutions, continuously learning and adopting the latest web technologies to stay at the forefront of the industry. With a strong commitment to full-stack development excellence, I strive to deliver high-quality applications that are both visually appealing and technically robust, ensuring long-term maintainability and scalability.
 </h3>
